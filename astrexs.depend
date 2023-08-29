@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691326486 source:c:\users\options\desktop\astrexs\main.c
+	<stdio.h>
+	<stdlib.h>
+
